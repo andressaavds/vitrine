@@ -1,2 +1,5 @@
-# vitrine
-Projeto feito em sala de aula na instituição de ensino UniAlfa
+# Projeto inicial da disciplina
+
+## Professor
+
+Meu nome é Andressa e gosto de passar o meu tempo livre assistindo animes.
